@@ -9,6 +9,4 @@ public class PrivatPhoneCharge extends BasePage {
     public PrivatPhoneCharge(WebDriver driver) {
         super(driver);
     }
-
-
 }
